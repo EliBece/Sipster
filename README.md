@@ -67,9 +67,8 @@ npx expo start
 
 ## 👩‍💻 **Equipo desarrollador**
 
-[Nombre 1]
-
-[Nombre 2]
+Elizabeth Becerril Pérez
+Sofía Becerril Pérez
 
 ✨ “Sipster: autenticación simple, diseño elegante y datos servidos con estilo.”
 
