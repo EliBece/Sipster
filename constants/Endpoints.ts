@@ -1,6 +1,7 @@
-/*
-  Define las URL de la api web
-*/
+/* Endpoints:
+     - Define una base común para los endpoints (BASE_URL). 
+     - Crea un objeto Endpoints con rutas completas de la API (login, registro, subir foto).
+     - Define las URL de la api web. */
 
 const BASE_URL = 'http://monsterballgo.com/api';
 
@@ -8,4 +9,4 @@ export const Endpoints = {
   LOGIN:`${BASE_URL}/login.php`,
   REGISTER:`${BASE_URL}/register.php`,
   SET_PROFILE_PICTURE:`${BASE_URL}/setpfp.php`
-}
+};
